@@ -1,16 +1,16 @@
 ---
-name: "Template"
-guid: "eb5d7894-8eef-4b36-aa6f-5d124e828ce1"
+name: "RandomContent"
+guid: "2e3a18aa-b069-4e56-8e0d-d431f7745a1c"
 version: "1.0.0.0"
 targetAbi: "10.9.0.0"
 framework: "net8.0"
-overview: "Short description about your plugin"
+overview: "Open a random movie or series from your library"
 description: >
-  This is a longer description that can span more than one
-  line and include details about your plugin.
+  Adds a button next to search that opens a random
+  movie or series from your Jellyfin library.
 category: "General"
 owner: "jellyfin"
 artifacts:
-- "Jellyfin.Plugin.Template.dll"
+- "Jellyfin.Plugin.RandomContent.dll"
 changelog: >
   changelog
